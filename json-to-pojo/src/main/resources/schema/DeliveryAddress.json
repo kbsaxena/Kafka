@@ -1,0 +1,12 @@
+{
+	"type": "object",
+	"javaType": "kafka.example.types.DeliveryAddress",
+	"properties": {
+		"AddressLine" : {"type": "string"},
+		"City": {"type": "string"},
+		"State": {"type": "string"},
+		"PinCode": {"type": "string"},
+	    "ContactNumber": {"type": "string"}
+	}
+
+}
